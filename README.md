@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sawera Tahir Muhammad</h1>
-<h3 align="center">✨ About Me ! I'm Currently Working On Website Development I'm Currently Learning Javascript ,React.js and Next.js..</h3>
+<h3 align="center">✨ About Me ! I'm Currently Working On Website Development </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saweratahir3&label=Profile%20views&color=0e75b6&style=flat" alt="saweratahir3" /> </p>
 
