@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sawera-tahir-876b3a2bb/](https://www.linkedin.com/in/sawera-tahir-876b3a2bb/)
 
-- 📫 How to reach me **saweratahir42@gmail.com**
+- 📫 How to reach me **saweratahir32@gmail.com**
 
 - 📄 Know about my experiences [file:///C:/Users/CLP1/Downloads/FATIMA%20ALI.pdf](file:///C:/Users/CLP1/Downloads/FATIMA%20ALI.pdf)
 
