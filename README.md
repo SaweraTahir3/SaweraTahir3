@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saweratahir32@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/CLP1/Downloads/FATIMA%20ALI.pdf](file:///C:/Users/CLP1/Downloads/FATIMA%20ALI.pdf)
+- 📄 Know about my experiences file:///C:/Users/CLP1/Documents/pdf/My-Protfolio.pdf
 
 - ⚡ Fun fact **coding Lover**
 
