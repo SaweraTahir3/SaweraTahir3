@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js Express Mongodb and API Integration**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sawera-tahir-876b3a2bb/](https://www.linkedin.com/in/sawera-tahir-876b3a2bb/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sawera-tahir-muhammad-183170380/]
 
 - 📫 How to reach me **saweratahir42@gmail.com**
 
