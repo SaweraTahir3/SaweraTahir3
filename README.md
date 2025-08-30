@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saweratahir3" alt="saweratahir3" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript , React.js ,Next.js and Node.js .**
+- 🌱 I’m currently learning **Node.js Express Mongodb and API Integration**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sawera-tahir-876b3a2bb/](https://www.linkedin.com/in/sawera-tahir-876b3a2bb/)
 
-- 📫 How to reach me **saweratahir32@gmail.com**
+- 📫 How to reach me **saweratahir42@gmail.com**
 
 - 📄 Know about my experiences file:///C:/Users/CLP1/Documents/pdf/My-Protfolio.pdf
 
